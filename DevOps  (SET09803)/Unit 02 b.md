@@ -35,4 +35,38 @@
 | Resolve        | Process of fixing conflicts                                                                              |
 
 ### What is Git?
+- Distributed VCS where developers clone a complete copy of the repository, including its history, within local file system
+- Created by Linus Torvalds
+- It is fast, has data integrity features and is distributed
+- Hidden folder `.git` contains history and other status information of the repository
 
+#### Git commands
+
+| Command    | Description                                                                    |
+| ---------- | ------------------------------------------------------------------------------ |
+| `init`     | Initialises a new Git repository                                               |
+| `clone`    | Clones an existing Git Repository                                              |
+| `add`      | Adds files to the staging area for a commit                                    |
+| `status`   | Gets the current status of the Git repository                                  |
+| `commit`   | Creates a new commit (checkpoint) in the code base                             |
+| `push`     | Pushes the changes (commits) to a remote                                       |
+| `diff`     | Provides information on differences between commits                            |
+| `log`      | Provides history of Git commits                                                |
+| `checkout` | Switches to a given branch or commit                                           |
+| `fetch`    | Fetches changes from a remote repository                                       |
+| `merge`    | Merges changes from another branch into the current one                        |
+| `pull`     | Fetches and merges changes                                                     |
+| `branch`   | Creates a new branch                                                           |
+| `remote`   | Allows working with (e.g., adding, listing) remotes for the current repository |
+
+#### Gitflow Workflow / Collaboration Model
+
+| Branch    | Description                                                       |
+| --------- | ----------------------------------------------------------------- |
+| `master`  | The main branch                                                   |
+| `develop` | The main development branch - work is normally undertaken here    |
+| `feature` | The development of an actual feature, e.g., `feature/get-details` |
+| `release` | Actual releases are tagged here                                   |
+| `hotfix`  | Fixes to releases are undertaken here                             |
+
+#git #github #versioncontrol 
