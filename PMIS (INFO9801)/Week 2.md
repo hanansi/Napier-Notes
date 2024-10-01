@@ -80,3 +80,72 @@ For small IS projects, the rigor of full-scale project management may seem exces
 - Summarize how strategy interacts with other factors to determine an organization's effectiveness
 - Suggest some ways in which information systems can support the development of competitive strategies
 
+This chapter discusses the business context in which systems projects are created, emphasizing how organizational strategy shapes business processes and systems. The systems planning activity aligns business goals, such as profit or customer service, with the development of computer systems to meet key result areas (KRAs). The chapter also highlights the importance of understanding the broader business environment to ensure that information systems align with an organization's overall strategy.
+
+### What is strategy all about?
+- Strategy is the pattern or plan that integrates an organisation's major goals, policies and actions into a cohesive whole
+- Strategy is the result of a careful analysis and it is purposeful; it is a plan for achieving something
+
+A good strategy is: 
+- _Clear_ - overriding goals for all units of the enterprise are clear enough to give continuity and cohesion to all of the tactical choices 
+- _Keep the initiative_ - preserves freedom of action, supports empowerment and enhances commitment
+- _Concentrated_ - concentrates resources at the place where, and the time when, they will generate maximum advantage
+- _Flexible_ - being well balanced to take advantage of changes that occur
+- _Well led_ - good leadership is needed to turn a strategy into competitive advantage
+- _Full of surprises_ - we gain advantage out of proportion to the effort expended by doing the unexpected
+
+According to Mintzberg, to see strategy is:
+- _A plan_ - intended course of action to deal with a situation
+- _A pattern_ - we consistently behave in a certain way and it leads us to formalize this pattern of behavior into a strategy
+- _A position_ - describes how we position ourselves in our market
+- _A perspective_ - describe strategy as a set of values
+
+
+### Developing a strategy
+
+![Gordon Greenley model](../Images/strategic_management_model.png)
+
+#### Analytical Tools:
+- **SWOT** - Strengths, Weaknesses, Opportunities and Threats
+	![SWOT](../Images/swot.png)
+- **PESTEL** - Political, Economic, Socio-cultural, Technological, Environmental, Legal
+- **Balanced Business Scorecard:**
+	- Customer perspective - how customers see the organization (market share growth, customer profitability, response and delivery times, defect rates, etc..)
+	- Internal Business perspective - how well our business is running
+	- Employee perspective (learning and growth perspective) - constant development of employees 
+- **Boston Consulting Group Matrix** - models the relationship between a product or service's current and future potential and how management wants to deal with it
+	![Boston Consulting Group Matrix](../Images/boston_consulting_matrix.png)
+
+### Competition and strategy
+- Porter _"the essence of strategy formulation is dealing with competition"_ 
+- Porter's **five forces model**:
+	- Rivalry
+	- New entrants
+	- Substitute products or services
+	- Suppliers
+	- Buyers
+	
+	![Porter's Five Forces](../Images/porter_five_forces.png)
+
+- Robson's analysis of the five forces and IS opportunities:
+	![Robson Five Forces](../Images/robson_five_forces.png)
+
+Gregory Parsons Six Strategies for the Development of Information Systems:
+- Centrally planned - planning cycles for business and IS are closely linked
+- Leading edge - belief that innovative technology can create organizational gains and that the risky investment can generate big paybacks
+- A free market - users make the decisions since they are the ones who have to live with the results and deliver the profits
+- Monopoly - belief that information is a corporate asset that should be available across the whole company
+- Scarce resource - where the scope of the IS function is deliberately limited by budget constraints and users' projects compete for service from the scarce resources using strict cost/benefit criteria
+- Necessary evil - where organizations see the development of ISs as a necessary evil and believe that information is not important to their business
+
+### Strategy and culture
+Organizational change depends on the relationship and interactions between (McKinsey model):
+1. Strategy - the action that an organization takes based on its assessment of the environment which it defines as its customers and its competitors
+2. Structure - organization structure
+3. Systems - things that keep the organization going, day by day
+4. Style - management style
+5. Skills - dominating attributes or capabilities of the organization
+6. Staff - recruitment, appraisal, pay scales, etc. and moral, motivation, attitude, commitment, etc.
+7. Shared values - guiding concepts, the values and aspirations that make us want to work here, that give meaning to what we do
+
+
