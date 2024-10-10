@@ -25,3 +25,19 @@
 	- Breakdown each report as a Java Class
 	- Hold database queries in a text file to shorten length of Java code
 	- Make an Object for each table in the database (Table -> Tools -> Scripted Extensions ->Generate POJO )
+
+- [x]  GitHub project for coursework set-up.
+- [x]  Product Backlog created.
+- [x]  Project builds to self-contained JAR with Maven.
+- [x]  Dockerfile for project set-up and works.
+- [x]  GitHub Actions for project set-up and build is working using JAR, and Docker on GitHub Actions.
+- [x]  Correct branches for GitFlow workflow created - includes `master`, `develop`, and `release` branches.
+- [ ]  First release created on GitHub.
+- [x]  Code of Conduct defined.
+- [x]  Issues being used on GitHub.
+- [x]  Tasks defined as user stories.
+- [x]  Project integrated with Zube.io.
+- [x]  Kanban/Project Board being used.
+- [ ]  Sprint Boards being used.
+- [ ]  Full use cases defined.
+- [ ]  Use case diagram created.
